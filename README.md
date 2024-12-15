@@ -1,6 +1,6 @@
 # PATT_RECOG-REQUIEM
 Path To Redemption.
-
+https://github.com/JeansAthiwat/PATT_RECOG-REQUIEM/blob/main/resources/33251d7a-c719-4634-a40b-092be2ecb813.webp
 # Playlist Progress Tracker
 This is a progress tracker for the [YouTube Playlist](https://www.youtube.com/playlist?list=PLcBOyD1N1T-OpGooU_P9nFL9I3I6IiDgu) by EkapolC.
 - [x] L01 - Intro & Kmean Clustering
