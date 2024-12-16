@@ -5,9 +5,9 @@ Path To Redemption.
 
 # Playlist Progress Tracker
 This is a progress tracker for the [YouTube Playlist](https://www.youtube.com/playlist?list=PLcBOyD1N1T-OpGooU_P9nFL9I3I6IiDgu) by EkapolC.
-- [x] L01 - Intro & Kmean Clustering
-- [x] L01.5 - Correction for elbow method
-- [x] L02 - Regression and MLE
+- [x] L01 - Intro & Kmean Clustering (15/12/2024)
+- [x] L01.5 - Correction for elbow method (15/12/2024)
+- [x] L02 - Regression and MLE (16/12/2024) + HW1
 - [ ] L03 - Probabilistic estimation, Naive Bayes, GMM and EM part 1
 - [ ] L04 - EM part 2, Dimensionality reduction part 1
 - [ ] L05 - Data splitting, RoC, PCA, LDA
