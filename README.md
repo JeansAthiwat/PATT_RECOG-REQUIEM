@@ -8,8 +8,8 @@ This is a progress tracker for the [YouTube Playlist](https://www.youtube.com/pl
 - [x] L01 - Intro & Kmean Clustering (15/12/2024)
 - [x] L01.5 - Correction for elbow method (15/12/2024)
 - [x] L02 - Regression and MLE + HW1 (16/12/2024)
-- [ ] L03 - Probabilistic estimation, Naive Bayes, GMM and EM part 1
-- [ ] L04 - EM part 2, Dimensionality reduction part 1
+- [x] L03 - Probabilistic estimation, Naive Bayes, GMM and EM part 1 + HW2 (18/12/2024)
+- [x] L04 - EM part 2, Dimensionality reduction part 1 (18/12/2024)
 - [ ] L05 - Data splitting, RoC, PCA, LDA
 - [ ] L06 - Random projection, tSNE, UMAP, SVM
 - [ ] L07 - Neural Networks
