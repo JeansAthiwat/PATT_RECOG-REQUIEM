@@ -10,8 +10,8 @@ This is a progress tracker for the [YouTube Playlist](https://www.youtube.com/pl
 - [x] L02 - Regression and MLE + HW1 (16/12/2024)
 - [x] L03 - Probabilistic estimation, Naive Bayes, GMM and EM part 1 + HW2 (18/12/2024)
 - [x] L04 - EM part 2, Dimensionality reduction part 1 (18/12/2024)
-- [ ] L05 - Data splitting, RoC, PCA, LDA
-- [ ] L06 - Random projection, tSNE, UMAP, SVM
+- [x] L05 - Data splitting, RoC, PCA, LDA (21/12/2024) (skip HW3 pca lda as it is too ez(nah its take alot of time))
+- [x] L06 - Random projection, tSNE, UMAP, SVM (26/12/2024) (Got addicted to Slay The Spire (pretty goated game) )
 - [ ] L07 - Neural Networks
 - [ ] L07.5 - Recurrent Neural Networks (GRU, LSTM) + appendix ADAM
 - [ ] L08 - Attention and Deep Architectures
