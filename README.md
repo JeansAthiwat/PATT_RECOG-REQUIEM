@@ -14,7 +14,7 @@ This is a progress tracker for the [YouTube Playlist](https://www.youtube.com/pl
 - [x] L06 - Random projection, tSNE, UMAP, SVM (26/12/2024) (Got addicted to Slay The Spire (pretty goated game) )
 - [x] L07 - Neural Networks (28/12/2024)
 - [x] L07.5 - Recurrent Neural Networks (GRU, LSTM) + appendix ADAM (28/12/2024)
-- [ ] L08 - Attention and Deep Architectures
+- [x] L08 - Attention and Deep Architectures (29/12/2024 + HW4)
 - [ ] L09 - Upsampling, Semi-supervised, Self-supervised part 1
 - [ ] L10 - Self-supervised part 2
 - [ ] L11 - Deep generative model 1: VAE and GAN
