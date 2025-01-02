@@ -15,8 +15,8 @@ This is a progress tracker for the [YouTube Playlist](https://www.youtube.com/pl
 - [x] L07 - Neural Networks (28/12/2024)
 - [x] L07.5 - Recurrent Neural Networks (GRU, LSTM) + appendix ADAM (28/12/2024)
 - [x] L08 - Attention and Deep Architectures (29/12/2024 + HW4)
-- [ ] L09 - Upsampling, Semi-supervised, Self-supervised part 1
-- [ ] L10 - Self-supervised part 2
+- [x] L09 - Upsampling, Semi-supervised, Self-supervised part 1 (02/01/2025 + HW5 (no OT t.t))
+- [x] L10 - Self-supervised part 2 (02/01/2025)
 - [ ] L11 - Deep generative model 1: VAE and GAN
 - [ ] L12 - Deep generative model part 2 diffusion and flow
 - [ ] L13 - Reinforcement Learning
