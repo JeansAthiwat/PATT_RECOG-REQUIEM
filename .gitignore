@@ -1,5 +1,7 @@
 #dataset for hw
-HW/HW07/data/**
+HW/HW07/data
+HW/HW07/facades
+HW/HW07/facades.tar.gz
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
